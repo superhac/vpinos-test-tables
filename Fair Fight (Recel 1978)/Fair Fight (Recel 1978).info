@@ -1,0 +1,61 @@
+{
+    "Info": {
+        "IPDBId": "808",
+        "Title": "Fair Fight",
+        "Manufacturer": "Recel",
+        "Year": 1978,
+        "Type": "SS",
+        "Themes": [
+            "Medieval",
+            "Combat"
+        ],
+        "VPSId": "V9Fim4K7Y2"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": []
+    },
+    "vpinfe": {
+        "delete_nvram_on_close": false,
+        "alt_launcher": "",
+        "alt_title": "",
+        "alt_vpsid": "",
+        "schema": 2,
+        "frontend_dof_event": "",
+        "default_table": "1j6x9RJkU9",
+        "game_id": "1zk4Vor1wg"
+    },
+    "tables": {
+        "1j6x9RJkU9": {
+            "file_hash": "6d5d89f2f5d1d73510cd293f60ac0ccf53bdcde38aab2760d75edd8b27d1795c",
+            "version": "5.5.0",
+            "release_date": "2024-12-12",
+            "save_date": "2024-12-11T14:35:57",
+            "save_rev": "139",
+            "manufacturer": "",
+            "year": "",
+            "type": "",
+            "vbs_hash": "e2f6aba9596e2e947ad10d2059b5189aba185e517ebbd7ffa6fb3cb080e7ffc3",
+            "rom": "Fair Fight",
+            "detect_nfozzy": false,
+            "detect_fleep": false,
+            "detect_ssf": true,
+            "detect_lut": true,
+            "detect_scorbit": false,
+            "detect_fastflips": false,
+            "detect_flex": false,
+            "authors": [
+                "jpsalas",
+                "editoy",
+                "Halen"
+            ],
+            "filename": "Fair Fight (Recel 1978) v55_VPX8.vpx",
+            "id": "1j6x9RJkU9",
+            "added": "2026-06-10T01:55:06Z"
+        }
+    }
+}

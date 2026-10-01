@@ -1,0 +1,60 @@
+{
+    "Info": {
+        "IPDBId": "1550",
+        "Title": "Mars Trek",
+        "Manufacturer": "Sonic",
+        "Year": 1977,
+        "Type": "EM",
+        "Themes": [
+            "Outer Space",
+            "Fantasy"
+        ],
+        "VPSId": "wisBSsn3Tc",
+        "PinballPrimerTut": "https://pinballprimer.github.io/marstrek_Gr89x.html"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": []
+    },
+    "vpinfe": {
+        "delete_nvram_on_close": false,
+        "alt_launcher": "",
+        "alt_title": "",
+        "alt_vpsid": "",
+        "schema": 2,
+        "frontend_dof_event": "",
+        "default_table": "5nkJg86dwL",
+        "game_id": "KnAxELVCi2"
+    },
+    "tables": {
+        "5nkJg86dwL": {
+            "file_hash": "8abd1a93e7b34caae8c69124a22c0e2a97dcc025b730672ca390cef92aa4f1c6",
+            "version": "1.2",
+            "release_date": "2023-03-24",
+            "save_date": "2024-02-02T20:18:37",
+            "save_rev": "2596",
+            "manufacturer": "",
+            "year": "",
+            "type": "",
+            "vbs_hash": "db1530065c066d296aa2bc503d4b5d1987ca375ebfd3be71d8e87ca95f0d8324",
+            "rom": "marstrek",
+            "detect_nfozzy": false,
+            "detect_fleep": false,
+            "detect_ssf": true,
+            "detect_lut": true,
+            "detect_scorbit": false,
+            "detect_fastflips": false,
+            "detect_flex": false,
+            "authors": [
+                "Klodo81"
+            ],
+            "filename": "Mars Trek (Sonic 1977)V1.2.vpx",
+            "id": "5nkJg86dwL",
+            "added": "2026-06-10T01:52:07Z"
+        }
+    }
+}

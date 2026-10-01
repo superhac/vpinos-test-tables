@@ -1,0 +1,92 @@
+{
+    "Info": {
+        "IPDBId": "619",
+        "Title": "Cyclopes",
+        "Manufacturer": "Game Plan",
+        "Year": 1985,
+        "Type": "SS",
+        "Themes": [
+            "Fantasy",
+            "Mythology"
+        ],
+        "VPSId": "-4jr5q1J",
+        "Authors": [
+            "Goldchicco",
+            "destruk"
+        ],
+        "Rom": "cyclopes",
+        "PinballPrimerTut": "https://pinballprimer.github.io/cyclopes_GRwZ7.html"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": [],
+        "FrontendDOFEvent": ""
+    },
+    "VPXFile": {
+        "filename": "Cyclopes (Game Plan 1985) 1.1.vpx",
+        "filehash": "dc4402b22c32ca2c011d9cd56df186729b2847fbec8b93c3bfff95a69ed1370e",
+        "version": "1.1",
+        "releaseDate": "",
+        "saveDate": "",
+        "saveRev": "",
+        "manufacturer": "",
+        "year": "",
+        "type": "",
+        "vbsHash": "f28189506577ee4a138c3e5bee4ba76b41781c3ad5c420ace37632e8330fc682",
+        "rom": "cyclopes",
+        "detectnfozzy": true,
+        "detectfleep": true,
+        "detectssf": true,
+        "detectlut": true,
+        "detectscorebit": false,
+        "detectfastflips": false,
+        "detectflex": false
+    },
+    "VPinFE": {
+        "deletedNVRamOnClose": false,
+        "altlauncher": "",
+        "alttitle": "",
+        "altvpsid": ""
+    },
+    "Medias": {
+        "bg": {
+            "Source": "vpinmediadb",
+            "Path": "bg.png",
+            "MD5Hash": "be13a2b15049086b2065168012fe11a7"
+        },
+        "dmd": {
+            "Source": "vpinmediadb",
+            "Path": "dmd.png",
+            "MD5Hash": "dc730d344818aa3c9cb4a24104528400"
+        },
+        "wheel": {
+            "Source": "vpinmediadb",
+            "Path": "wheel.png",
+            "MD5Hash": "9035f3d6853957f78183044529efc1b5"
+        },
+        "cab": {
+            "Source": "vpinmediadb",
+            "Path": "cab.png",
+            "MD5Hash": "a2ea8a524b4ee6d6ecafe114873ffafc"
+        },
+        "table": {
+            "Source": "vpinmediadb",
+            "Path": "table.png",
+            "MD5Hash": "3d3fb551ce8e2a2c44dc57d285b3949e"
+        },
+        "flyer": {
+            "Source": "vpinmediadb",
+            "Path": "flyer.png",
+            "MD5Hash": "41833348af2ae527a319642a6a8ee5e4"
+        },
+        "audio": {
+            "Source": "vpinmediadb",
+            "Path": "audio.mp3",
+            "MD5Hash": "5797644adc4bcc50911de57232b32f73"
+        }
+    }
+}

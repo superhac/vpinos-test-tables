@@ -1,0 +1,61 @@
+{
+    "Info": {
+        "IPDBId": "619",
+        "Title": "Cyclopes",
+        "Manufacturer": "Game Plan",
+        "Year": 1985,
+        "Type": "SS",
+        "Themes": [
+            "Fantasy",
+            "Mythology"
+        ],
+        "VPSId": "-4jr5q1J",
+        "PinballPrimerTut": "https://pinballprimer.github.io/cyclopes_GRwZ7.html"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": []
+    },
+    "vpinfe": {
+        "delete_nvram_on_close": false,
+        "alt_launcher": "",
+        "alt_title": "",
+        "alt_vpsid": "",
+        "schema": 2,
+        "frontend_dof_event": "",
+        "default_table": "26RRrCrW5E",
+        "game_id": "VYJ9rRRNfR"
+    },
+    "tables": {
+        "26RRrCrW5E": {
+            "file_hash": "dc4402b22c32ca2c011d9cd56df186729b2847fbec8b93c3bfff95a69ed1370e",
+            "version": "1.1",
+            "release_date": "",
+            "save_date": "",
+            "save_rev": "",
+            "manufacturer": "",
+            "year": "",
+            "type": "",
+            "vbs_hash": "f28189506577ee4a138c3e5bee4ba76b41781c3ad5c420ace37632e8330fc682",
+            "rom": "cyclopes",
+            "detect_nfozzy": true,
+            "detect_fleep": true,
+            "detect_ssf": true,
+            "detect_lut": true,
+            "detect_scorbit": false,
+            "detect_fastflips": false,
+            "detect_flex": false,
+            "authors": [
+                "Goldchicco",
+                "destruk"
+            ],
+            "filename": "Cyclopes (Game Plan 1985) 1.1.vpx",
+            "id": "26RRrCrW5E",
+            "added": "2026-06-10T01:53:19Z"
+        }
+    }
+}

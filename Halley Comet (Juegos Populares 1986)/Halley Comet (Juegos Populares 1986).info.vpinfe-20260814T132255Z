@@ -1,0 +1,55 @@
+{
+    "Info": {
+        "IPDBId": "3936",
+        "Title": "Halley Comet",
+        "Manufacturer": "Juegos Populares",
+        "Year": 1986,
+        "Type": "SS",
+        "Themes": [
+            "Outer Space"
+        ],
+        "VPSId": "XZd52o9Eu8",
+        "Authors": [
+            "pedator",
+            "jpsalas",
+            "akiles50000"
+        ],
+        "Rom": "halley"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": [],
+        "FrontendDOFEvent": ""
+    },
+    "VPXFile": {
+        "filename": "Halley Comet (Juegos Populares 1986).vpx",
+        "filehash": "44fa8f9317b8ea971946700beebc812570e71660593e35047c30d4dbded23770",
+        "version": "2.1",
+        "releaseDate": "",
+        "saveDate": "Mon Feb 10 11:17:02 2025",
+        "saveRev": "966",
+        "manufacturer": "Juegos Populares",
+        "year": "1986",
+        "type": "VPinMame",
+        "vbsHash": "effe2bf05a22e555f1e71551a294ffd25878089d19d5c2c3bca8cbadd9002bd1",
+        "rom": "halley",
+        "detectnfozzy": false,
+        "detectfleep": false,
+        "detectssf": true,
+        "detectlut": true,
+        "detectscorebit": false,
+        "detectfastflips": false,
+        "detectflex": false
+    },
+    "VPinFE": {
+        "deletedNVRamOnClose": false,
+        "altlauncher": "",
+        "alttitle": "",
+        "altvpsid": ""
+    },
+    "Medias": {}
+}

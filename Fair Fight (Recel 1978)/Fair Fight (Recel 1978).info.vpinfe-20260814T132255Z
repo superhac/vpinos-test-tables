@@ -1,0 +1,82 @@
+{
+    "Info": {
+        "IPDBId": "808",
+        "Title": "Fair Fight",
+        "Manufacturer": "Recel",
+        "Year": 1978,
+        "Type": "SS",
+        "Themes": [
+            "Medieval",
+            "Combat"
+        ],
+        "VPSId": "V9Fim4K7Y2",
+        "Authors": [
+            "jpsalas",
+            "editoy",
+            "Halen"
+        ],
+        "Rom": "Fair Fight"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": [],
+        "FrontendDOFEvent": ""
+    },
+    "VPXFile": {
+        "filename": "Fair Fight (Recel 1978) v55_VPX8.vpx",
+        "filehash": "6d5d89f2f5d1d73510cd293f60ac0ccf53bdcde38aab2760d75edd8b27d1795c",
+        "version": "5.5.0",
+        "releaseDate": "12.12.2024",
+        "saveDate": "Wed Dec 11 14:35:57 2024",
+        "saveRev": "139",
+        "manufacturer": "",
+        "year": "",
+        "type": "",
+        "vbsHash": "e2f6aba9596e2e947ad10d2059b5189aba185e517ebbd7ffa6fb3cb080e7ffc3",
+        "rom": "Fair Fight",
+        "detectnfozzy": false,
+        "detectfleep": false,
+        "detectssf": true,
+        "detectlut": true,
+        "detectscorebit": false,
+        "detectfastflips": false,
+        "detectflex": false
+    },
+    "VPinFE": {
+        "deletedNVRamOnClose": false,
+        "altlauncher": "",
+        "alttitle": "",
+        "altvpsid": ""
+    },
+    "Medias": {
+        "bg": {
+            "Source": "vpinmediadb",
+            "Path": "bg.png",
+            "MD5Hash": "7cd531ed361e5a47c7568edce8d414ec"
+        },
+        "wheel": {
+            "Source": "vpinmediadb",
+            "Path": "wheel.png",
+            "MD5Hash": "fa96fb264bce922c5fdbf84bada3bfa9"
+        },
+        "cab": {
+            "Source": "vpinmediadb",
+            "Path": "cab.png",
+            "MD5Hash": "50ef60091d560ec3bd183159ca14e240"
+        },
+        "table": {
+            "Source": "vpinmediadb",
+            "Path": "table.png",
+            "MD5Hash": "a805b8f6ea01cf9dfeb301b37c74804b"
+        },
+        "flyer": {
+            "Source": "vpinmediadb",
+            "Path": "flyer.png",
+            "MD5Hash": "f8f6dc28d644fd885d2bae8f76f0344a"
+        }
+    }
+}

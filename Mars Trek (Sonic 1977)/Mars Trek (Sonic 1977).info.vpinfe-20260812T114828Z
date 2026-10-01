@@ -1,0 +1,86 @@
+{
+    "Info": {
+        "IPDBId": "1550",
+        "Title": "Mars Trek",
+        "Manufacturer": "Sonic",
+        "Year": 1977,
+        "Type": "EM",
+        "Themes": [
+            "Outer Space",
+            "Fantasy"
+        ],
+        "VPSId": "wisBSsn3Tc",
+        "Authors": [
+            "Klodo81"
+        ],
+        "Rom": "marstrek",
+        "PinballPrimerTut": "https://pinballprimer.github.io/marstrek_Gr89x.html"
+    },
+    "User": {
+        "Rating": 0,
+        "Favorite": 0,
+        "LastRun": null,
+        "StartCount": 0,
+        "RunTime": 0,
+        "Tags": [],
+        "FrontendDOFEvent": ""
+    },
+    "VPXFile": {
+        "filename": "Mars Trek (Sonic 1977)V1.2.vpx",
+        "filehash": "8abd1a93e7b34caae8c69124a22c0e2a97dcc025b730672ca390cef92aa4f1c6",
+        "version": "1.2",
+        "releaseDate": "24.03.2023",
+        "saveDate": "Fri Feb  2 20:18:37 2024",
+        "saveRev": "2596",
+        "manufacturer": "",
+        "year": "",
+        "type": "",
+        "vbsHash": "db1530065c066d296aa2bc503d4b5d1987ca375ebfd3be71d8e87ca95f0d8324",
+        "rom": "marstrek",
+        "detectnfozzy": false,
+        "detectfleep": false,
+        "detectssf": true,
+        "detectlut": true,
+        "detectscorebit": false,
+        "detectfastflips": false,
+        "detectflex": false
+    },
+    "VPinFE": {
+        "deletedNVRamOnClose": false,
+        "altlauncher": "",
+        "alttitle": "",
+        "altvpsid": ""
+    },
+    "Medias": {
+        "bg": {
+            "Source": "vpinmediadb",
+            "Path": "bg.png",
+            "MD5Hash": "36616046a7246e6e7a91c24f83aa871b"
+        },
+        "wheel": {
+            "Source": "vpinmediadb",
+            "Path": "wheel.png",
+            "MD5Hash": "9da60327f655a1737fd0e254ff4e3fc6"
+        },
+        "cab": {
+            "Source": "vpinmediadb",
+            "Path": "cab.png",
+            "MD5Hash": "d08e0de84ae785a7d59e0e20665ff813"
+        },
+        "table": {
+            "Source": "vpinmediadb",
+            "Path": "table.png",
+            "MD5Hash": "34d465c4250f5dd529f2a1fb2de7ed19"
+        },
+        "flyer": {
+            "Source": "vpinmediadb",
+            "Path": "flyer.png",
+            "MD5Hash": "2f674052ec1d0adc80e532f321358e1e"
+        },
+        "audio": {
+            "Source": "vpinmediadb",
+            "Path": "audio.mp3",
+            "MD5Hash": "76f4055b5ca3beddcec66f11a24467c5"
+        }
+    }
+}
